@@ -30,7 +30,7 @@
                         console.log('counter is ' + counter);
                         var getColor = `${colors[counter]}`;
                         // return getColor;
-                        return counter;
+                        // return counter;
                     }
 
                     bgColorDiv.style.backgroundColor = getColor;
